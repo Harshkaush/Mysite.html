@@ -206,7 +206,7 @@ for beginners and professional players.
 
 <section id="contact" class="section">
 <h2>Contact Us+91 87912 58100</h2>
-<p>Email: jpssports@gmail.com</p>
+
 <p>Instagram: @jpssportsnbd</p>
 </section>
 
